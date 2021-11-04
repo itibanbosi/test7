@@ -11,7 +11,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts",
+        "test7.ts",
         "tp2.ts"
         "../../libs/ds18b20/ds18b20.ts",
         "../../libs/ds18b20/ds18b20.cpp"
